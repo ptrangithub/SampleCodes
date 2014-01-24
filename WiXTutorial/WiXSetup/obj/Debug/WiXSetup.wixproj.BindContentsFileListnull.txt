@@ -1,0 +1,6 @@
+..\WiXTutorial\bin\Debug\WiXTutorial.exe
+..\WiXTutorial\bin\Debug\WiXTutorial.exe.config
+..\WiXTutorial\bin\Debug\WiXTutorial.pdb
+..\WiXTutorial\bin\Debug\WiXTutorial.vshost.exe
+..\WiXTutorial\bin\Debug\WiXTutorial.vshost.exe.config
+..\WiXTutorial\bin\Debug\WiXTutorial.vshost.exe.manifest

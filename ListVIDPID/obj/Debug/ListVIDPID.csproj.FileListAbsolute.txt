@@ -1,0 +1,14 @@
+D:\Source\GitHub\SampleCodes\ListVIDPID\bin\Debug\ListVIDPID.exe.config
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID.csprojResolveAssemblyReference.cache
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\MainWindow.baml
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\MainWindow.g.cs
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\App.g.cs
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID_MarkupCompile.cache
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID.g.resources
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID.Properties.Resources.resources
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID.csproj.GenerateResource.Cache
+D:\Source\GitHub\SampleCodes\ListVIDPID\bin\Debug\ListVIDPID.exe
+D:\Source\GitHub\SampleCodes\ListVIDPID\bin\Debug\ListVIDPID.pdb
+D:\Source\GitHub\SampleCodes\ListVIDPID\bin\Debug\FTD2XX_NET.dll
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID.exe
+D:\Source\GitHub\SampleCodes\ListVIDPID\obj\Debug\ListVIDPID.pdb

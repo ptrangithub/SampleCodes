@@ -1,0 +1,8 @@
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXSetup\bin\Debug\WiXSetup.msi
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXSetup\bin\Debug\WiXSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WiXSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WiXSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WiXSetup.wixproj.BindBuiltOutputsFileListnull.txt
+obj\Debug\WiXTutFilesOutput.wixobj
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXSetup\bin\Debug\cab1.cab

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WiXSetup" Language="1033" Version="1.0.0.0" Manufacturer="Illumina, Inc." UpgradeCode="e07eea72-9248-49cc-9fe3-9a583426aac0">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="WiXSetup" Level="1">
+      <ComponentGroupRef Id="WiXTutCG"/>
+      <ComponentRef Id="DesktopShortCutCompID" />
+      <ComponentRef Id="StartMenuShortcutCompID" />
+		</Feature>
+	</Product>
+
+  <Fragment>
+    <Property Id='TARGETDIR' Value='C:\'/>
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="DesktopFolder">
+        <Component Id="DesktopShortCutCompID" Guid="*">
+          <Shortcut Id="DesktopShortcutID" Name="WiX Tutorial" Target="[WiXTutFolder]InstrumentShell.exe" WorkingDirectory="WiXTutFolder" Description="WiX Tutorial" Advertise="no"/>
+          <RegistryValue Id="DesktopShortcutRegistryID" Root="HKCU" Key="Software\Microsoft\DelphiControlSoftware" Name="DesktopShortcut" Type="integer" Value="1" KeyPath="yes"/>
+        </Component>
+      </Directory>
+
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="ApplicationProgramsFolder" Name="Illumina">
+          <Component Id="StartMenuShortcutCompID" Guid="*">
+            <Shortcut Id="StartMenuShortcutID" Name="WiX Tutorial" Target="[WiXTutFolder]WiXTutorial.exe" WorkingDirectory="WiXTutFolder" Description="WiX Tutorial" Advertise="no"/>
+            <RegistryValue Id="StartMenuShortcutRegistryID" Root="HKCU" Key="Software\Microsoft\WiXTutorial" Name="StartmenuShortcut" Type="integer" Value="1" KeyPath="yes"/>
+          </Component>
+        </Directory>
+      </Directory>
+
+      <Directory Id="Illumina" Name="Illumina">
+        <Directory Id="WiXTutFolder" Name ="Delphi Control Software">
+        </Directory>
+      </Directory>
+    </Directory>
+  </Fragment>
+</Wix>

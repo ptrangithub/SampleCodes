@@ -1,0 +1,3 @@
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXSetup\bin\Debug\cab1.cab
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXSetup\bin\Debug\WiXSetup.msi
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXSetup\bin\Debug\WiXSetup.wixpdb

@@ -1,0 +1,13 @@
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\bin\Debug\WiXTutorial.exe.config
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\bin\Debug\WiXTutorial.exe
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\bin\Debug\WiXTutorial.pdb
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial.csprojResolveAssemblyReference.cache
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\MainWindow.baml
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\MainWindow.g.cs
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\App.g.cs
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial_MarkupCompile.cache
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial.g.resources
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial.Properties.Resources.resources
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial.csproj.GenerateResource.Cache
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial.exe
+D:\Source\GitHub\SampleCodes\WiXTutorial\WiXTutorial\obj\Debug\WiXTutorial.pdb

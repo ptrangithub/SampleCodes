@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+    <Fragment>
+        <DirectoryRef Id="WiXTutFolder">
+            <Component Id="WiXTutorial.exe" Guid="{9D16D154-2297-4FB9-B3F9-4AE918E00867}">
+                <File Id="WiXTutorial.exe" KeyPath="yes" Source="$(var.CURRENT_FILE_PATH)\WiXTutorial.exe" />
+            </Component>
+            <Component Id="WiXTutorial.exe.config" Guid="{BE779D79-49B4-462B-9485-8B6A047FD93B}">
+                <File Id="WiXTutorial.exe.config" KeyPath="yes" Source="$(var.CURRENT_FILE_PATH)\WiXTutorial.exe.config" />
+            </Component>
+            <Component Id="WiXTutorial.pdb" Guid="{833AF005-E801-459D-B044-5ED8C802336E}">
+                <File Id="WiXTutorial.pdb" KeyPath="yes" Source="$(var.CURRENT_FILE_PATH)\WiXTutorial.pdb" />
+            </Component>
+            <Component Id="WiXTutorial.vshost.exe" Guid="{EB7A7C2C-D0FD-4924-AB84-014ECDCF8C34}">
+                <File Id="WiXTutorial.vshost.exe" KeyPath="yes" Source="$(var.CURRENT_FILE_PATH)\WiXTutorial.vshost.exe" />
+            </Component>
+            <Component Id="WiXTutorial.vshost.exe.config" Guid="{57EDB067-B497-40B0-9BBF-3414164504B3}">
+                <File Id="WiXTutorial.vshost.exe.config" KeyPath="yes" Source="$(var.CURRENT_FILE_PATH)\WiXTutorial.vshost.exe.config" />
+            </Component>
+            <Component Id="WiXTutorial.vshost.exe.manifest" Guid="{D6749216-7F48-46D8-9CFF-1056557E9F96}">
+                <File Id="WiXTutorial.vshost.exe.manifest" KeyPath="yes" Source="$(var.CURRENT_FILE_PATH)\WiXTutorial.vshost.exe.manifest" />
+            </Component>
+        </DirectoryRef>
+    </Fragment>
+    <Fragment>
+        <ComponentGroup Id="WiXTutCG">
+            <ComponentRef Id="WiXTutorial.exe" />
+            <ComponentRef Id="WiXTutorial.exe.config" />
+            <ComponentRef Id="WiXTutorial.pdb" />
+            <ComponentRef Id="WiXTutorial.vshost.exe" />
+            <ComponentRef Id="WiXTutorial.vshost.exe.config" />
+            <ComponentRef Id="WiXTutorial.vshost.exe.manifest" />
+        </ComponentGroup>
+    </Fragment>
+</Wix>
