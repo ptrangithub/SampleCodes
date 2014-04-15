@@ -1,0 +1,19 @@
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\bin\Debug\UITestApp.exe.config
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\bin\Debug\UITestApp.exe
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\bin\Debug\UITestApp.pdb
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\Assay confirmation.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\configure_runparameter_edit.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\configure_runparameter_preview.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\configure_sample info_edit.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\configure_sample info_preview.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\MainWindow.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\scan barcode.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\select assay.baml
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\MainWindow.g.cs
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\App.g.cs
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\UITestApp_MarkupCompile.cache
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\UITestApp.g.resources
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\UITestApp.Properties.Resources.resources
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\UITestApp.csproj.GenerateResource.Cache
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\UITestApp.exe
+D:\Source\GitHub\SampleCodes\UITestApp\UITestApp\obj\Debug\UITestApp.pdb
